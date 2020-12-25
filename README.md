@@ -1,4 +1,4 @@
-# php
+# PHP
 
 ## [STA Bus Schedule](https://github.com/jcampbell18/php_STA_schedule) utilizing RESTful API
 
