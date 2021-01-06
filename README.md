@@ -4,7 +4,6 @@
 
 - co-created by Jason Campbell and Valdyn Hunt
 - this API was recognized by STA, and had replaced the previous one
-  - the API test account and API is no longer available
   
 Tools:  
 - [x] PHP 7.x
@@ -12,6 +11,8 @@ Tools:
 - [x] RESTful API
 - [x] HTML/CSS/JS
 - [x] Figma (Design)
+
+![Screenshot](https://github.com/jcampbell18/php/blob/main/STA_page-600.png)
 
 ### EWU CSCD 378: Web Applications
 
